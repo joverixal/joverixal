@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:172554,50:2563eb,100:1e3a8a&height=230&section=header&text=Joverixal%20Entuna&fontSize=44&fontColor=dbeafe&fontAlignY=36&desc=Systems%20Engineer%20%E2%80%94%20Full-Stack%20Developer&descSize=17&descAlignY=56&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe,50:93c5fd,100:3b82f6&height=230&section=header&text=Joverixal%20Entuna&fontSize=44&fontColor=172554&fontAlignY=36&desc=Systems%20Engineer%20%E2%80%94%20Full-Stack%20Developer&descSize=17&descAlignY=56&animation=fadeIn">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:172554%2C50:2563eb%2C100:1e3a8a&height=230&section=header&text=Joverixal%20Entuna&fontSize=44&fontColor=dbeafe&fontAlignY=36&desc=Systems%20Engineer%20%E2%80%94%20Full-Stack%20Developer&descSize=17&descAlignY=56&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe%2C50:93c5fd%2C100:3b82f6&height=230&section=header&text=Joverixal%20Entuna&fontSize=44&fontColor=172554&fontAlignY=36&desc=Systems%20Engineer%20%E2%80%94%20Full-Stack%20Developer&descSize=17&descAlignY=56&animation=fadeIn">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:172554,50:2563eb,100:1e3a8a&height=230&section=header&text=Joverixal%20Entuna&fontSize=44&fontColor=dbeafe&fontAlignY=36&desc=Systems%20Engineer%20%E2%80%94%20Full-Stack%20Developer&descSize=17&descAlignY=56&animation=fadeIn" alt="Header banner">
 </picture>
 
@@ -24,8 +24,8 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:172554,100:60a5fa&height=3">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:bfdbfe,100:1d4ed8&height=3">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:172554%2C100:60a5fa&height=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:bfdbfe%2C100:1d4ed8&height=3">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:bfdbfe,100:1d4ed8&height=3" alt="">
 </picture>
 
@@ -41,7 +41,6 @@ I've worked as both a hands-on developer and a team lead, so I'm comfortable wri
 <tr>
 <td width="60%" valign="top">
 
-```yaml
 name: Joverixal Entuna
 role: Senior Systems Engineer
 location: Surigao del Norte, Philippines
@@ -55,7 +54,6 @@ currently_learning:
 fun_fact: >
   Started in customer support and hardware repair —
   debugging people problems taught me to debug systems, too.
-```
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -73,14 +71,14 @@ fun_fact: >
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,dotnet,java,python,kotlin,php,js,jquery,html,css&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs%2Cdotnet%2Cjava%2Cpython%2Ckotlin%2Cphp%2Cjs%2Cjquery%2Chtml%2Ccss&theme=dark">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,kotlin,php,js,jquery,html,css&theme=light" alt="Languages and frameworks">
 </picture>
 
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,sqlite,androidstudio,visualstudio,git&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql%2Csqlite%2Candroidstudio%2Cvisualstudio%2Cgit&theme=dark">
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,androidstudio,visualstudio,git&theme=light" alt="Tools and databases">
 </picture>
 
@@ -95,7 +93,7 @@ fun_fact: >
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/joverixal/rixal-pos">rixal-pos</a>
-**Point-of-sale system**
+*Point-of-sale system*
 
 A browser-based POS built for retail checkout — product catalog, live sales entry, and transaction tracking in one interface. Nearly 200 commits of iteration on a system built to run a real storefront.
 
@@ -105,7 +103,7 @@ A browser-based POS built for retail checkout — product catalog, live sales en
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/joverixal/barbershop-app">barbershop-app</a>
-**Shop management system**
+*Shop management system*
 
 Purpose-built for a barbershop's day-to-day: point-of-sale checkout plus an earnings tracker, so an owner can see sales and staff earnings without a spreadsheet.
 
@@ -117,7 +115,7 @@ Purpose-built for a barbershop's day-to-day: point-of-sale checkout plus an earn
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/joverixal/ge-ix-fr-anhs">Event Registration &amp; QR Check-in</a>
-**Installable web app (PWA)**
+*Installable web app (PWA)*
 
 A registration system with QR-code generation and scanning for fast event check-in. Built with a service worker and manifest, so it installs on a phone and keeps working on a weak connection. 448 commits of real-world refinement.
 
@@ -127,7 +125,7 @@ A registration system with QR-code generation and scanning for fast event check-
 <td width="50%" valign="top">
 
 ### More on the way
-**Currently building**
+*Currently building*
 
 I'm actively adding new projects and case studies. Check back soon, or reach out — I'm happy to walk through the code and the decisions behind it.
 
@@ -172,8 +170,8 @@ I'm actively adding new projects and case studies. Check back soon, or reach out
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:172554,100:60a5fa&height=3">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:bfdbfe,100:1d4ed8&height=3">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:172554%2C100:60a5fa&height=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:bfdbfe%2C100:1d4ed8&height=3">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:bfdbfe,100:1d4ed8&height=3" alt="">
 </picture>
 
@@ -182,7 +180,7 @@ I'm actively adding new projects and case studies. Check back soon, or reach out
 ## Experience
 
 ### Senior Systems Engineer
-**Network Economic Service Ventures Philippines Inc.** · April 2022 – Present
+*Network Economic Service Ventures Philippines Inc.* · April 2022 – Present
 
 I maintain and improve business systems used every day by the company. My job starts before any code is written — I study what the business actually needs, then design a solution that fits.
 
@@ -193,7 +191,7 @@ I maintain and improve business systems used every day by the company. My job st
 - Set up automated jobs and backups so systems keep running without manual work
 
 ### Lead System Developer
-**D-Innovate Solution** · February 2017 – December 2017
+*D-Innovate Solution* · February 2017 – December 2017
 
 I led a small team through the entire lifecycle of building software — from the first idea to a finished product.
 
@@ -201,7 +199,7 @@ I led a small team through the entire lifecycle of building software — from th
 - Built Windows desktop apps, web apps, and Android apps for clients
 
 ### Customer Care Clerk
-**Autosweep RFID** · August 2016 – December 2016
+*Autosweep RFID* · August 2016 – December 2016
 
 Before I moved into development, I worked directly with customers — a job that taught me how to explain technical things in plain language, a skill I still use today.
 
@@ -212,7 +210,7 @@ Before I moved into development, I worked directly with customers — a job that
 - Resolved customer complaints professionally
 
 ### IT Technical Support
-**Sphynx Contact Solutions** · January 2016 – June 2016
+*Sphynx Contact Solutions* · January 2016 – June 2016
 
 My first step into IT — hands-on work keeping computers and networks running.
 
@@ -225,7 +223,7 @@ My first step into IT — hands-on work keeping computers and networks running.
 
 ## Education
 
-**Bachelor of Science in Information Technology (BSIT)**
+*Bachelor of Science in Information Technology (BSIT)*
 STI College Cotabato · 2012 – 2016
 
 <br>
@@ -233,11 +231,12 @@ STI College Cotabato · 2012 – 2016
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:172554&height=130&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:93c5fd,100:dbeafe&height=130&section=footer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a%2C50:2563eb%2C100:172554&height=130&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6%2C50:93c5fd%2C100:dbeafe&height=130&section=footer">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:172554&height=130&section=footer" alt="Footer banner">
 </picture>
 
 Thanks for stopping by — feel free to reach out, I'm always open to a conversation.
 
 </div>
+capsule-render.vercel.app
