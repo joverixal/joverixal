@@ -15,7 +15,7 @@
 <br>
 
 [![Email](https://img.shields.io/badge/Email-joverixal.entuna%40gmail.com-3b82f6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joverixal.entuna@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B63%20976%20354%206814-2563eb?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+639763546814)
+[![Phone](https://img.shields.io/badge/Phone-%2B63%20976%20354%206814-2563eb?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+639763546814/+639974339002)
 [![GitHub](https://img.shields.io/badge/GitHub-joverixal-1d4ed8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joverixal)
 [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-60a5fa?style=for-the-badge&logoColor=white)](mailto:joverixal.entuna@gmail.com)
 
